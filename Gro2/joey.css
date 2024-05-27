@@ -1,0 +1,36 @@
+body {background-color: aliceblue;}
+h1 {color: dodgerblue;
+    text-align: left;
+    padding: 8px;
+    font-family: cursive;
+    font-size: 30px;}
+
+table, th, td {border: none;
+margin-right: 3px;}
+
+#imgdiv
+{float: right;
+margin: 10px;
+padding-top: 5px;
+background-color: #E6E6FA;}
+
+#pantrydiv
+{float:left;
+margin: 10px;
+background-color: #E6E6FA;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: medium;}
+
+#container
+{display: inline-block;}
+
+.heading {padding: 10px;
+margin: 100px;
+border-spacing: 30px;
+width: 800px;
+border: 3px;
+background-color: #B0C4DE;
+color: #483D8B;
+font-family: Arial;
+font-size: 20px;
+font-weight: bold}
